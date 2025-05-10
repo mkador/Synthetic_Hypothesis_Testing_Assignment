@@ -42,7 +42,7 @@ This repository contains a comprehensive Python notebook focused on performing s
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/hypothesis-testing-assignment.git
+   git clone https://github.com/mkador/hypothesis-testing-assignment.git
    cd hypothesis-testing-assignment
 pip install -r requirements.txt
 jupyter notebook Synthetic_Hypothesis_Testing_Assignment.ipynb
@@ -69,7 +69,6 @@ scipy.stats
 statsmodels
 
 ## 🧑‍💻 Author
-Your Name
+Md. Musa Kalimulla
 Data Science & Machine Learning Engineer
-LinkedIn
-Email
+Email: mkador169@gmail.com
