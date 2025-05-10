@@ -1,19 +1,19 @@
-# 📊 Hypothesis Testing and A/B Testing with Sample Size Calculation
+# 📊 Statistical Hypothesis Testing with Sample Size Calculation
 
-This repository contains a comprehensive Python notebook focused on performing statistical hypothesis tests, A/B testing, and sample size calculations using both synthetic and real datasets. It covers the complete workflow from data generation to result interpretation, following best practices in statistical analysis.
+This repository contains a comprehensive Python notebook focused on performing statistical hypothesis tests and sample size calculations using synthetic datasets. It follows the standard statistical workflow from data generation and assumption checking to hypothesis testing and result interpretation.
 
 ---
 
 ## 🧪 Project Objectives
 
-- Study and apply different statistical hypothesis tests.
+- Apply different statistical hypothesis tests.
 - Define and test statistical hypotheses (null and alternative).
 - Check assumptions for each test:
   - **Normality** (Shapiro-Wilk test, visual inspection)
   - **Homogeneity of Variance** (Levene’s test)
 - Choose appropriate statistical tests (parametric or non-parametric).
-- Perform and interpret A/B tests.
-- Calculate required sample size for future experiments.
+- Interpret statistical test results.
+- Calculate required sample size using power analysis.
 
 ---
 
@@ -37,6 +37,7 @@ This repository contains a comprehensive Python notebook focused on performing s
 - **Sample Size Calculation** using power analysis (`TTestIndPower`)
 
 ---
+
 
 ## 📝 How to Run
 
